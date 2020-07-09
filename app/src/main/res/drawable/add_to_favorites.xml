@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape>
+            <size android:height="90dp" android:width="90dp"/>
+            <solid android:color="#0FFF"/>
+        </shape>
+    </item>
+    <item android:top="33dp"
+        android:bottom="33dp"
+        android:left="33dp"
+        android:right="33dp"
+        android:drawable="@drawable/ic_favorite_border"/>
+
+</layer-list>
